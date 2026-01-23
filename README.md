@@ -1,0 +1,7 @@
+# Projet 9 – Dashboard de scoring crédit
+
+## Objectif
+Mettre en place une chaîne de traitement distribuée PySpark pour des images, prête à passer à l’échelle dans le cloud (AWS EMR), avec des choix techniques justifiés, des coûts maîtrisés et une démonstration claire.
+
+## Auteur
+Margaux Dupeyron
