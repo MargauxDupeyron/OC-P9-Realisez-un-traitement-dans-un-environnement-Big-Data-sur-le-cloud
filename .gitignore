@@ -120,3 +120,4 @@ data/
 # Autoriser le CSV de test pour Streamlit (P8)
 !streamlit_app/data/
 !streamlit_app/data/df_test_sample.csv
+miscrosoft.gpg
